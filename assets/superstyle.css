@@ -12,10 +12,13 @@ p {
   font-style: italic;
   font-family: arial;
 }
-div {
+#content {
   background-color: #000000;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 15px;
   padding-left: 15px;
+}
+#nav {
+  box-shadow: 10px 10px 5px;
 }
