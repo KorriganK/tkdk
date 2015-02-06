@@ -21,6 +21,7 @@ p {
 }
 #nav {
   box-shadow: 10px 10px 5px;
+  background-color: #000000;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
