@@ -1,6 +1,9 @@
 body {
   background-color: #468499;
 }
+li {
+  color: #ffffff;
+}
 p {
   color: #ffffff;
   font-family: arial;
