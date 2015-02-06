@@ -9,7 +9,8 @@ body {
 }
 p {
   color: #ffffff;
-  font: italic comic;
+  font-style: italic;
+  font-family: arial;
 }
 div {
   background-color: #000000;
