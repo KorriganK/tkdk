@@ -7,8 +7,12 @@ body {
   padding-right: 25px;
   padding-left: 25px;
 }
+p {
+  color: #ffffff;
+  font: italic arial;
+}
 div {
-  background-color: #ffffff;
+  background-color: #000000;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 15px;
