@@ -9,7 +9,7 @@ body {
 }
 p {
   color: #ffffff;
-  font: italic arial;
+  font: italic arial, sans-serif;
 }
 div {
   background-color: #000000;
