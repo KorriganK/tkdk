@@ -14,7 +14,7 @@ p {
   padding-left: 5px;
 }
 #nav {
-  background-color: #303030;
+  background-color: #708090;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
@@ -23,8 +23,8 @@ p {
 button {
   border-style: solid;
   border-width: 3px;
-  border-color: #303030;
+  border-color: #708090;
 }
 #logo {
-  background-color: #303030;
+  background-color: #708090;
 }
