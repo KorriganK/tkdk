@@ -3,7 +3,10 @@ body {
 }
 p {
   color: #ffffff;
-  font-style: bold;
+  font-family: arial;
+}
+h3 {
+  color: #ffffff;
   font-family: arial;
 }
 #content {
