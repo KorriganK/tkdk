@@ -1,7 +1,5 @@
 body {
-  background-image:url('https://cloud.githubusercontent.com/assets/7268773/6074012/ed1c5622-ad7b-11e4-9951-d37e43106505.jpg');
-  background-repeat: repeat;
-  background-position: left top;
+  
   padding-top: 25px;
   padding-bottom: 25px;
   padding-right: 25px;
@@ -13,16 +11,16 @@ p {
   font-family: arial;
 }
 #content {
-  background-color: #000000;
+  box-shadow: 10px 10px 5px #708090;
+  background-color: #2E2E2E;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 15px;
   padding-left: 15px;
-  box-shadow: 10px 10px 5px #2E2E2E;
 }
 #nav {
-  box-shadow: 10px 10px 5px #2E2E2E;
-  background-color: #000000;
+  box-shadow: 10px 10px 5px #708090;
+  background-color: #2E2E2E;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
