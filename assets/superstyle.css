@@ -7,15 +7,14 @@ p {
   font-family: arial;
 }
 #content {
-  box-shadow: 10px 10px 5px #708090;
-  background-color: #2E2E2E;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
+  background-color: #708090;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 #nav {
-  background-color: #2E2E2E;
+  background-color: #708090;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
@@ -27,5 +26,5 @@ button {
   border-color: #2E2E2E;
 }
 #logo {
-  background-color: #2E2E2E;
+  background-color: #708090;
 }
